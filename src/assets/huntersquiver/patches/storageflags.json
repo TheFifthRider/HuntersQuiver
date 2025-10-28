@@ -26,8 +26,17 @@
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/resource/rope", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/tool/spear", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/tool/bow", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/tool/knife", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/toolhead/arrowhead", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/toolhead/bowstave", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/toolhead/spearhead", "side": "server"},
-  { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/resource/bone-tiny", "side": "server"}
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/resource/bone-tiny", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/food/primemeat", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resources/ivory", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resources/offal", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resources/sinew", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resources/strongbone", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/toolhead/hook", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/toolhead/toolheads", "side": "server", "dependsOn": [ { "modid": "butchering" } ]},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/toolhead/needle", "side": "server", "dependsOn": [ { "modid": "butchering" } ]}
 ]
