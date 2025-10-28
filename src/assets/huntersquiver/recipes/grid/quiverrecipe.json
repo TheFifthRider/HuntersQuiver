@@ -1,0 +1,22 @@
+{
+	"ingredientPattern": "L,L,P",
+	"width": 1,
+	"height": 3,
+	"ingredients": {
+		"L": {
+			"type": "item",
+			"code": "game:leather-normal-plain",
+			"quantity": 3,
+		},
+		"P": { 
+			"type": "item",
+			"code": "game:metalplate-*", 
+			"allowedVariants": ["copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+		},
+
+	},
+	"output": {
+		"type": "item",
+		"code": "game:quiver"
+	}
+}

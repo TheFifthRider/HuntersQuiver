@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modId": "huntersquiver",
+  "name": "Hunter's Quiver",
+  "authors": ["TheFifthRider"],
+  "description": "Implements quivers as a specialty bag.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.20.0"
+  }
+}
