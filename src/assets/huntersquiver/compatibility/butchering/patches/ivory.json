@@ -1,0 +1,3 @@
+﻿[
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resource/ivory.json", "side": "server"}
+]
