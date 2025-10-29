@@ -19,5 +19,6 @@
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/toolhead/arrowhead", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/toolhead/bowstave", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/toolhead/spearhead", "side": "server"},
-  { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/resource/bone-tiny", "side": "server"}
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "game:itemtypes/resource/bone-tiny", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 517, "file": "game:itemtypes/resource/metalbit", "side": "server", "dependsOn": [ { "modid":  "smithingplus" } ]}
 ]
