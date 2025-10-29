@@ -1,0 +1,12 @@
+﻿[
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/tool/hook.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/tool/needle.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/tool/toolheads.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resource/offal.json", "side": "server" },
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/food/primemeat.json", "side": "server" },
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resource/ivory.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resource/sinew.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/resource/strongbone.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:blocktypes/butcherhook.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:blocktypes/butcherhookceiling.json", "side": "server"}
+]

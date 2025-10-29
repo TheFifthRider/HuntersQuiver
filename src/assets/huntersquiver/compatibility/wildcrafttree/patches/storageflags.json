@@ -1,0 +1,13 @@
+﻿[
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/stick", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/feather", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/fat", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/hide", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/bone", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/food/redmeat", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/food/bushmeat", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/food/fish", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/food/poultry", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/rot", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 545, "file": "game:itemtypes/resource/antler", "side": "server"}
+]

@@ -1,3 +1,0 @@
-﻿[
-  { "op": "add", "path": "/storageFlags", "value": 513, "file": "butchering:itemtypes/tool/toolheads.json", "side": "server"}
-]
