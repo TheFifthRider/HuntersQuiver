@@ -4,7 +4,6 @@
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/cordage.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/fisheggs.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/fishfillet.json", "side": "server"},
-  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/fishfillet.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/fishinghook.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/fishinglure.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/fishingspear.json", "side": "server"},
@@ -12,6 +11,5 @@
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/psfish.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/pssaltwaterfish.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/food/crabmeat.json", "side": "server"},
-  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/food/snakemeat.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/food/snakemeat.json", "side": "server"}
 ]
