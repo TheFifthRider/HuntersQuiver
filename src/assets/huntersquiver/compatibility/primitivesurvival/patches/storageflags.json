@@ -11,5 +11,11 @@
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/psfish.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/fishing/pssaltwaterfish.json", "side": "server"},
   { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/food/crabmeat.json", "side": "server"},
-  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/food/snakemeat.json", "side": "server"}
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:itemtypes/food/snakemeat.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:blocktypes/fishing/fishbasket.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:blocktypes/fishing/fishbasketinwater.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:blocktypes/fishing/fishmount.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:blocktypes/fishing/limbtrotline.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:blocktypes/fishing/saltwaterfishmount.json", "side": "server"},
+  { "op": "add", "path": "/storageFlags", "value": 513, "file": "primitivesurvival:blocktypes/fishing/weirtrap.json", "side": "server"}
 ]

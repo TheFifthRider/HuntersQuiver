@@ -1,5 +1,7 @@
 {
   "type": "content",
+  "side": "Server",
+  "requiredOnClient": true,
   "modId": "huntersquiver",
   "name": "Hunter's Quiver",
   "authors": ["TheFifthRider"],
@@ -7,5 +9,5 @@
   "version": "1.0.0",
   "dependencies": {
     "game": ""
-  }
+  },
 }
