@@ -2,7 +2,7 @@
   "type": "content",
   "side": "Server",
   "requiredOnClient": true,
-  "modId": "huntersquiver",
+  "modid": "huntersquiver",
   "name": "Hunter's Quiver",
   "authors": ["TheFifthRider"],
   "description": "Implements quivers as a specialty bag.",
