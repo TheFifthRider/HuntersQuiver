@@ -6,7 +6,7 @@
   "name": "Hunter's Quiver",
   "authors": ["TheFifthRider"],
   "description": "Implements quivers as a specialty bag.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
     "game": ""
   }
